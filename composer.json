@@ -1,12 +1,12 @@
 {
-    "name": "misd/phone-number-bundle",
+    "name": "kontsevoye/phone-number-bundle",
     "type": "symfony-bundle",
     "description": "Integrates libphonenumber into your Symfony2-Symfony4 application",
     "keywords": ["bundle", "phone-number", "phonenumber", "telephone number", "libphonenumber"],
-    "homepage": "https://github.com/misd-service-development/phone-number-bundle",
+    "homepage": "https://github.com/kontsevoye/phone-number-bundle",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/misd-service-development/phone-number-bundle/issues"
+        "issues": "https://github.com/kontsevoye/phone-number-bundle/issues"
     },
     "require": {
         "php": ">=5.3.9",
